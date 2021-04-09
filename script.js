@@ -67,7 +67,7 @@ hamburger.addTopping(TOPPINGS.salad);
 hamburger.addTopping(TOPPINGS.potato);
 hamburger.addTopping(TOPPINGS.mayo);
 
-console.log("First Burger")
+console.log("First Burger");
 console.log(`Price with sauce: $${hamburger.calcPrice()}`);
 console.log(`Callories with sauce: ${hamburger.calcCalories()}`);
 
@@ -76,6 +76,6 @@ const hamburger2 = new Hamburger(HAMBURGER_TYPES.large);
 hamburger2.addTopping(TOPPINGS.cheese);
 hamburger2.addTopping(TOPPINGS.salad);
 
-console.log("Second Burger")
+console.log("Second Burgerrr");
 console.log(`Price with sauce: $${hamburger2.calcPrice()}`);
 console.log(`Callories with sauce: ${hamburger2.calcCalories()}`);
